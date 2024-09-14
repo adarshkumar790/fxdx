@@ -1,0 +1,25 @@
+node_modules/
+typechain/
+verify/
+env.json
+env.*.json
+.tmp-addresses*.json
+data/fxdxMigration
+data/esFxdxDistribution
+data/bonds
+data/batchSend
+data/nft
+data/snapshotBalance
+data/holders
+data/abi
+flattened
+distribution-data*.json
+saga-distribution-data*.json
+trader-rewards-data*.json
+booster-session1-rewards-data*.json
+
+#Hardhat files
+cache
+artifacts
+
+DEPLOYORDER.md
